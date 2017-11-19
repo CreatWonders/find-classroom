@@ -1,7 +1,11 @@
 # find-classroom
+
 #include<stdio.h>
+
 #include<string.h>
+
 #define numberOfClassrooms 100
+
 void main() {
 	int i = 0;
 	double[numberOfClassrooms] people;			//每个教室内人数通过摄像头得到 
